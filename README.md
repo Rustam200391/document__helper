@@ -1,5 +1,5 @@
 # React + Vite
-<b>This application is designed to develop an application that allows the user to obtain information about the necessary documents.</b
+<b>This application is designed to develop an application that allows the user to obtain information about the necessary documents.</b>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
