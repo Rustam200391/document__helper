@@ -1,6 +1,7 @@
 import RegistrationItem from "../../utils/Form/RegistrationItem";
 import Button from "../../utils/Button/Button";
 import style from "./style.module.scss";
+import { Link } from "react-router-dom";
 
 export const Login = () => {
   // здесь будет логика передачи данных из полей ввода на бекенд
@@ -26,7 +27,9 @@ export const Login = () => {
           </div>
         </form>
         <div className={style.login__button}>
-          <Button text="Войти" type="submit" />
+          <Link to="/qpage">
+            <Button text="Войти" type="submit" />
+          </Link>
         </div>
       </section>
     </div>
