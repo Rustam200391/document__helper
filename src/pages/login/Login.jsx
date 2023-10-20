@@ -3,6 +3,8 @@ import Button from "../../utils/Button/Button";
 import style from "./style.module.scss";
 
 export const Login = () => {
+  // здесь будет логика передачи данных из полей ввода на бекенд
+
   return (
     <div className={style.login}>
       <section className={style.login__container}>
