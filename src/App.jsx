@@ -1,11 +1,11 @@
-import { Main } from "./pages/main/Main";
+import { Login } from "./pages/login/Login";
 import "../src/styles/App.css";
 
 
 function App() {
   return (
     <>
-      <Main />
+      <Login />
     </>
   );
 }
