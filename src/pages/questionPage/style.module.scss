@@ -10,6 +10,7 @@
     }
     &__block1 {
         margin: 5px 20px 5px 20px;
+       
     }
     &__block2 {
         margin: 5px 20px 5px 20px;
@@ -18,3 +19,8 @@
         margin: 5px 20px 5px 20px;
     }
 }
+
+ .main__block1 span,
+ .main__block2 span,
+ .main__block3 span {
+     color: green;}
