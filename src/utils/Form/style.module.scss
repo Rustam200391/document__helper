@@ -32,7 +32,7 @@ $red: #611c24;
 .correct {
 	& > input {
 		&:hover {
-			box-shadow: 0px 0px 8px 1px $green;
+			box-shadow: 0px 0px 8px 1px ;
 		}
 		&:focus {
 			animation-duration: 0.7s;
