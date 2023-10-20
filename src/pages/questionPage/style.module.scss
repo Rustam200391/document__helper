@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border: 2px solid yellow;
+    margin: 5px 19px 5px 1px;
+ 
+    &__title {
+      margin: 5px 0 5px 0;
+    }
+    &__block1 {
+        margin: 5px 20px 5px 20px;
+    }
+    &__block2 {
+        margin: 5px 20px 5px 20px;
+    }
+    &__block3 {
+        margin: 5px 20px 5px 20px;
+    }
+}
